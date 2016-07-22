@@ -1,0 +1,71 @@
+
+        #main-navbar {
+            background-color: white;
+            padding: 15px;
+        }
+        
+        #navbar-container {
+            border-bottom: 1px #bdc3c7 solid;
+        }
+        
+        #company-navbar {
+            color: #e74c3c;
+            font-size: 30px;
+            margin-left: 13%;
+        }
+        
+        #signin {
+            color: #e74c3c;
+            font-size: 18px;
+            margin-right: 130px;
+            margin-top: 40px;
+            
+        }
+        
+        .container-fluid {
+            margin: 0 !important;
+            padding: 0 !important;
+        }
+        
+        #iphone-image {
+            height: 700px;
+        }
+        
+        #iphone-block {
+            margin-left: 25%;
+            margin-top: 50px;
+            margin-bottom: 50px;
+            
+            
+        }
+        #company-CTA {
+            text-align: center;
+            margin-top: 150px;
+        }
+        
+        #company-lead {
+            font-size: 70px;
+        }
+        
+        #fb-signin-btn {
+            font-size: 20px;
+            padding: 10px 35px 10px 35px;
+        }
+        
+        #fb-permission {
+            color: #34495e;
+            margin-top: 20px;
+            font-size: 16px;
+        }
+        
+        #footer-box {
+            background-color: white;
+            height: 200px;
+            border-top: 1px #bdc3c7 solid;
+        }
+
+        #fb-like-example {
+            margin-left: 300px;
+            margin-top: 50px;
+
+        }
